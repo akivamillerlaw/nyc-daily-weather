@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>New York City Daily Weather</title>
+    <link>https://akivamillerlaw.github.io/nyc-daily-weather/</link>
+    <atom:link href="https://akivamillerlaw.github.io/nyc-daily-weather/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A daily weather report for New York City</description>
+    <language>en-us</language>
+    <copyright>&#169; 2026 The Weather Report Podcast Company</copyright>
+    <itunes:author>The Weather Report Podcast Company</itunes:author>
+    <itunes:owner>
+      <itunes:name>The Weather Report Podcast Company</itunes:name>
+      <itunes:email>akiva.a.miller@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://akivamillerlaw.github.io/nyc-daily-weather/cover.png"/>
+    <image>
+      <url>https://akivamillerlaw.github.io/nyc-daily-weather/cover.png</url>
+      <title>New York City Daily Weather</title>
+      <link>https://akivamillerlaw.github.io/nyc-daily-weather/</link>
+    </image>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>NYC Weather Report - Monday, April 20, 2026</title>
+      <description>Today's NYC weather: 52°F high, 35°F low, 20% chance of showers and breezy. Looking ahead to Tuesday: sunny with a high near 54°F.</description>
+      <enclosure url="https://akivamillerlaw.github.io/nyc-daily-weather/episodes/NYC_Weather_Report_2026-04-20.mp3" length="1830078" type="audio/mpeg"/>
+      <guid isPermaLink="false">nyc-weather-2026-04-20</guid>
+      <pubDate>Mon, 20 Apr 2026 07:00:00 -0400</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
