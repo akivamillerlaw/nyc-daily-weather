@@ -28,6 +28,19 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
+      <title>NYC Weather Report - Monday, April 27, 2026</title>
+      <description>This is your New York City Weather Report for Monday, April 27, 2026. Here&apos;s what&apos;s in store for today. Currently, it&apos;s 66 degrees and Fair in Manhattan. Sunny, with a high near 66. With a light breeze. Today&apos;s high will be around 66 degrees, dropping to a low of 47 degrees tonight. With spring i...</description>
+      <enclosure url="https://akivamillerlaw.github.io/nyc-daily-weather/episodes/NYC_Weather_Report_2026-04-27.mp3" length="1678986" type="audio/mpeg"/>
+      <guid isPermaLink="false">nyc-weather-2026-04-27</guid>
+      <pubDate>Mon, 27 Apr 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+
+    <item>
       <title>NYC Weather Report - Tuesday, April 21, 2026</title>
       <description>This is your New York City Weather Report for Tuesday, April 21, 2026. Here&apos;s what&apos;s in store for today. Currently, it&apos;s 39 degrees and Fair in Manhattan. Sunny, with a high near 53. With a light breeze. Today&apos;s high will be around 53 degrees, dropping to a low of 44 degrees tonight. With spring ...</description>
       <enclosure url="https://akivamillerlaw.github.io/nyc-daily-weather/episodes/NYC_Weather_Report_2026-04-21.mp3" length="1903430" type="audio/mpeg"/>
