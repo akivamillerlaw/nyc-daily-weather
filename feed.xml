@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom"
@@ -29,49 +29,34 @@
 
     <item>
       <title>NYC Weather Report - Monday, April 27, 2026</title>
-      <description>This is your New York City Weather Report for Monday, April 27, 2026. Here is today&apos;s forecast for New York City. The current temperature in Manhattan is 66 degrees. We&apos;re heading to a high of 66 degrees today, with an overnight low of 47 degrees. Winds are a light breeze at 9 miles per hour. It&apos;...</description>
+      <description>Today in Manhattan: 66 degrees current, high of 66, overnight low of 47. Winds are a light breeze at 9 miles per hour. Looking ahead to Tuesday: high of 65, low of 49.</description>
       <enclosure url="https://akivamillerlaw.github.io/nyc-daily-weather/episodes/NYC_Weather_Report_2026-04-27.mp3" length="1596230" type="audio/mpeg"/>
       <guid isPermaLink="false">nyc-weather-2026-04-27</guid>
       <pubDate>Mon, 27 Apr 2026 07:00:00 +0000</pubDate>
       <itunes:duration>66</itunes:duration>
-      <itunes:episode>2</itunes:episode>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
-
-
-    <item>
-      <title>NYC Weather Report - Monday, April 27, 2026</title>
-      <description>This is your New York City Weather Report for Monday, April 27, 2026. Here&apos;s what&apos;s in store for today. Currently, it&apos;s 66 degrees and Fair in Manhattan. Sunny, with a high near 66. With a light breeze. Today&apos;s high will be around 66 degrees, dropping to a low of 47 degrees tonight. With spring i...</description>
-      <enclosure url="https://akivamillerlaw.github.io/nyc-daily-weather/episodes/NYC_Weather_Report_2026-04-27.mp3" length="1678986" type="audio/mpeg"/>
-      <guid isPermaLink="false">nyc-weather-2026-04-27</guid>
-      <pubDate>Mon, 27 Apr 2026 07:00:00 +0000</pubDate>
-      <itunes:duration>70</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
 
     <item>
       <title>NYC Weather Report - Tuesday, April 21, 2026</title>
-      <description>This is your New York City Weather Report for Tuesday, April 21, 2026. Here&apos;s what&apos;s in store for today. Currently, it&apos;s 39 degrees and Fair in Manhattan. Sunny, with a high near 53. With a light breeze. Today&apos;s high will be around 53 degrees, dropping to a low of 44 degrees tonight. With spring ...</description>
+      <description>Today in Manhattan: 39 degrees current, sunny with a high near 53, overnight low of 44. Light breeze. Looking ahead to Wednesday: showers likely, high near 58, low around 49.</description>
       <enclosure url="https://akivamillerlaw.github.io/nyc-daily-weather/episodes/NYC_Weather_Report_2026-04-21.mp3" length="1903430" type="audio/mpeg"/>
       <guid isPermaLink="false">nyc-weather-2026-04-21</guid>
       <pubDate>Tue, 21 Apr 2026 07:00:00 +0000</pubDate>
       <itunes:duration>79</itunes:duration>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
-
     <item>
       <title>NYC Weather Report - Monday, April 20, 2026</title>
-      <description>Today&apos;s NYC weather: 52 degrees high, 35 degrees low, 20% chance of showers and breezy. Looking ahead to Tuesday: sunny with a high near 54 degrees.</description>
+      <description>Today in Manhattan: 50 degrees current, high of 52, overnight low of 35. 20% chance of showers, breezy. Looking ahead to Tuesday: sunny with a high near 54.</description>
       <enclosure url="https://akivamillerlaw.github.io/nyc-daily-weather/episodes/NYC_Weather_Report_2026-04-20.mp3" length="1830078" type="audio/mpeg"/>
       <guid isPermaLink="false">nyc-weather-2026-04-20</guid>
-      <pubDate>Mon, 20 Apr 2026 07:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 Apr 2026 07:00:00 +0000</pubDate>
       <itunes:duration>76</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
