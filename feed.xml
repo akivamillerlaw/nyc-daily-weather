@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom"
@@ -26,6 +26,19 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>NYC Weather Report - Tuesday, April 28, 2026</title>
+      <description>This is your New York City Weather Report for Tuesday, April 28, 2026. Here is today&apos;s forecast for New York City. The current temperature in Manhattan is 58 degrees. We&apos;re heading to a high of 65 degrees today, with an overnight low of 50 degrees. Winds are a light breeze at 10 miles per hour. I...</description>
+      <enclosure url="https://akivamillerlaw.github.io/nyc-daily-weather/episodes/NYC_Weather_Report_2026-04-28.mp3" length="1571152" type="audio/mpeg"/>
+      <guid isPermaLink="false">nyc-weather-2026-04-28</guid>
+      <pubDate>Tue, 28 Apr 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
 
     <item>
       <title>NYC Weather Report - Monday, April 27, 2026</title>
