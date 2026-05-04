@@ -28,6 +28,19 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
+      <title>NYC Weather Report - Monday, May 4, 2026</title>
+      <description>This is your New York City Weather Report for Monday, May 4, 2026. Before we get to the forecast, there are some important weather alerts for the Manhattan area. A Moderate Special Weather Statement is in effect. Special Weather Statement issued May 3 at 10:02PM EDT by NWS Upton NY. A Moderate Sp...</description>
+      <enclosure url="https://akivamillerlaw.github.io/nyc-daily-weather/episodes/NYC_Weather_Report_2026-05-04.mp3" length="2131635" type="audio/mpeg"/>
+      <guid isPermaLink="false">nyc-weather-2026-05-04</guid>
+      <pubDate>Mon, 04 May 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>89</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+
+    <item>
       <title>NYC Weather Report - Sunday, May 3, 2026</title>
       <description>This is your New York City Weather Report for Sunday, May 3, 2026. Before we get to the forecast, there are some important weather alerts for the Manhattan area. A Moderate Special Weather Statement is in effect. Special Weather Statement issued May 3 at 1:31PM EDT by NWS Upton NY. A Moderate Spe...</description>
       <enclosure url="https://akivamillerlaw.github.io/nyc-daily-weather/episodes/NYC_Weather_Report_2026-05-03.mp3" length="2172386" type="audio/mpeg"/>
